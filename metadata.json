@@ -1,0 +1,5 @@
+{
+  "name": "Data Intelligence Agent",
+  "description": "A futuristic data analytics dashboard interface powered by Gemini, featuring real-time chat and data visualization capabilities.",
+  "requestFramePermissions": []
+}
